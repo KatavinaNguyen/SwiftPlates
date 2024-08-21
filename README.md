@@ -18,7 +18,7 @@ SwiftPlates is a sleek, cross-platform mobile app designed for small restaurants
 + **Add to Cart:** Easily add items to your cart and review your selections.
 + **Checkout:** Securely process your payment and receive an instant receipt.<br><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="lib/images/readmepics/swiftplates-1-signup.png" width="200"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="lib/images/readmepics/swiftplates-2-darkmodesignin.png" width="200"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="lib/images/readmepics/swiftplates-3-signin.png" width="200">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="lib/images/readmepics/swiftplates-1-signup.png" width="190"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="lib/images/readmepics/swiftplates-2-darkmodesignin.png" width="190"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="lib/images/readmepics/swiftplates-3-signin.png" width="200">
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="lib/images/readmepics/swiftplates-4-mainmenu.png" width="200"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="lib/images/readmepics/swiftplates-5-bluemoonburger.png" width="200"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="lib/images/readmepics/swiftplates-6-yourlocation.png" width="200">
 
