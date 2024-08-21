@@ -1,4 +1,4 @@
-# SwiftPlates Mobile Food Delivery App  <img src="lib/images/logo/SwiftPlates_Logo.png" width="60"> 
+# SwiftPlates Mobile Food Delivery App  <img src="lib/images/logo/SwiftPlates_Logo.png" width="60">
 SwiftPlates is a sleek, cross-platform mobile app designed for small restaurants to offer an amazing food delivery experience to their customers. 
 
 ## Features 
